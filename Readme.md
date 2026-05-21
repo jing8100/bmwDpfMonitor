@@ -22,7 +22,7 @@
 #### 🛠️ 기술 지원 및 문의/피드백
 사용 중 OBD 연결 실패, 데이터 미출력, 앱 튕김 등의 문제가 발생하면 아래 채널로 문의해 주세요:
 1. **GitHub Issues**: 본 저장소의 [Issues](https://github.com/jing8100/bmwDpfMonitor/issues) 페이지에 차량 모델 및 사용 중인 OBD 어댑터 종류와 함께 문의 글을 남겨주세요.
-2. **이메일 문의**: [이기에 이메일 주소를 입력하세요]
+2. **이메일 문의**: [jing8100#gmail.com]
 
 ---
 
@@ -44,7 +44,7 @@
 #### 🛠️ 技术支持与问题反馈
 如果您在使用过程中遇到任何问题（如 OBD 无法连接、数据不显示或 App 闪退），请通过以下方式联系我：
 1. **提交 Issue**：在当前 GitHub 仓库的 [Issues](https://github.com/jing8100/bmwDpfMonitor/issues) 页面提交您的问题、车型和 OBD 硬件型号。
-2. **电子邮箱**：[在此填入你的电子邮箱]
+2. **电子邮箱**：[jing8100#gmail.com]
 
 ---
 
@@ -66,4 +66,4 @@
 #### 🛠️ Support & Feedback
 If you encounter any issues (such as OBD connection failures, data missing, or app crashes), please contact support via:
 1. **GitHub Issues**: Open a ticket on the [Issues](https://github.com/jing8100/bmwDpfMonitor/issues) page with your vehicle model and OBD adapter details.
-2. **Email**: [Please insert your email address here]
+2. **Email**: [jing8100#gmail.com]
